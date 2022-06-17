@@ -1,0 +1,7 @@
+== Changelog ==
+
+v1.1
+--horizontal bar issue fixed
+
+v1.0
+--initial release
